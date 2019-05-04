@@ -8,3 +8,5 @@ Keep updating this regularly with links to geeksforgeeks,stackoverflow,hackerran
 3. How do we allocate a 2-D array using One malloc statement : https://stackoverflow.com/questions/8740195/how-do-we-allocate-a-2-d-array-using-one-malloc-statement
 
 4. A Visual Introduction to Algorithms : https://www.educative.io/collection/page/10370001/760001/770001
+
+5. The Case for Shared Nothing : http://db.cs.berkeley.edu/papers/hpts85-nothing.pdf
