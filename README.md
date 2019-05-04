@@ -10,3 +10,5 @@ Keep updating this regularly with links to geeksforgeeks,stackoverflow,hackerran
 4. A Visual Introduction to Algorithms : https://www.educative.io/collection/page/10370001/760001/770001
 
 5. The Case for Shared Nothing : http://db.cs.berkeley.edu/papers/hpts85-nothing.pdf
+
+6. Semi-synchronous replication at Facebook: http://yoshinorimatsunobu.blogspot.com/2014/04/semi-synchronous-replication-at-facebook.html
