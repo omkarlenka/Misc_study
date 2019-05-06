@@ -12,3 +12,6 @@ Keep updating this regularly with links to geeksforgeeks,stackoverflow,hackerran
 5. The Case for Shared Nothing : http://db.cs.berkeley.edu/papers/hpts85-nothing.pdf
 
 6. Semi-synchronous replication at Facebook: http://yoshinorimatsunobu.blogspot.com/2014/04/semi-synchronous-replication-at-facebook.html
+
+7. Collection of resources for System design : https://github.com/checkcheckzz/system-design-interview
+                 : https://github.com/shashank88/system_design
