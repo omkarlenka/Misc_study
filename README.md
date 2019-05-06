@@ -18,4 +18,5 @@ Keep updating this regularly with links to geeksforgeeks,stackoverflow,hackerran
       ii) https://github.com/shashank88/system_design
       iii) http://highscalability.com
       iv) https://www.hiredintech.com/
+      v) http://blog.gainlo.co/index.php/category/system-design-interview-questions/
                  
