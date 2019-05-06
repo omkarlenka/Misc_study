@@ -13,5 +13,9 @@ Keep updating this regularly with links to geeksforgeeks,stackoverflow,hackerran
 
 6. Semi-synchronous replication at Facebook: http://yoshinorimatsunobu.blogspot.com/2014/04/semi-synchronous-replication-at-facebook.html
 
-7. Collection of resources for System design : https://github.com/checkcheckzz/system-design-interview
-                 : https://github.com/shashank88/system_design
+7. Collection of resources for System design 
+      i) https://github.com/checkcheckzz/system-design-interview
+      ii) https://github.com/shashank88/system_design
+      iii) http://highscalability.com
+      iv) https://www.hiredintech.com/
+                 
