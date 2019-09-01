@@ -19,4 +19,7 @@ Keep updating this regularly with links to geeksforgeeks,stackoverflow,hackerran
       iii) http://highscalability.com
       iv) https://www.hiredintech.com/
       v) http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+      
+8. Catalan Number : https://www.geeksforgeeks.org/program-nth-catalan-number/
+9. Print all combinations of balanced parentheses: https://www.geeksforgeeks.org/print-all-combinations-of-balanced-parentheses/
                  
